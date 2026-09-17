@@ -1,0 +1,26 @@
+import type { Item } from "./types";
+
+export const anime: Item[] = [
+  { id: "attack-on-titan", name: "Attack on Titan", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg" },
+  { id: "one-piece", name: "One Piece", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg" },
+  { id: "death-note", name: "Death Note", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg" },
+  { id: "hunter-hunter", name: "Hunter \u00d7 Hunter", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png" },
+  { id: "dragon-ball-z", name: "Dragon Ball Z", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png" },
+  { id: "naruto", name: "Naruto", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg" },
+  { id: "kingdom", name: "Kingdom", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png" },
+  { id: "solo-leveling", name: "Solo Leveling", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png" },
+  { id: "vinland-saga", name: "Vinland Saga", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg" },
+  { id: "jujutsu-kaisen", name: "Jujutsu Kaisen", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg" },
+  { id: "demon-slayer", name: "Demon Slayer", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg" },
+  { id: "my-hero-academia", name: "My Hero Academia", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg" },
+  { id: "detective-conan", name: "Detective Conan", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg" },
+  { id: "fullmetal-alchemist-brotherhood", name: "Fullmetal Alchemist: Brotherhood", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg" },
+  { id: "code-geass", name: "Code Geass", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg" },
+  { id: "haikyuu", name: "Haikyuu!!", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png" },
+  { id: "hajime-no-ippo", name: "Hajime no Ippo", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg" },
+  { id: "bleach", name: "Bleach", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png" },
+  { id: "the-seven-deadly-sins", name: "The Seven Deadly Sins", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg" },
+  { id: "monster", name: "Monster", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg" },
+  { id: "one-punch-man", name: "One-Punch Man", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg" },
+  { id: "fairy-tail", name: "Fairy Tail", category: "anime", image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" },
+];
