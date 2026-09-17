@@ -12,4 +12,4 @@ export const CATEGORIES: CategoryDef[] = [
 ];
 
 export const getCategory = (id: CategoryId): CategoryDef =>
-  CATEGORIES.find((c) => c.id === id) ?? CATEGORIES[0];
+  (CATEGORIES.find((c) => c.id === id) ?? CATEGORIES[0])!;
